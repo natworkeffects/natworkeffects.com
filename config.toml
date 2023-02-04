@@ -221,7 +221,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Articles about enginering Machine Learning systems."
+      subtitle = "A blog about enginering Machine Learning systems."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
