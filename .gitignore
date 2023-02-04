@@ -1,0 +1,27 @@
+# Hugo default output directory
+.hugo_build.lock
+public/
+/themes/LoveIt/exampleSite/resources/
+/themes/LoveIt/exampleSite/.hugo_build.lock
+
+# go modules
+/themes/LoveIt/go.mod
+
+# node modules
+/themes/LoveIt/node_modules/
+/themes/LoveIt/build/
+/themes/LoveIt/package-lock.json
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# Linux
+.directory
+
