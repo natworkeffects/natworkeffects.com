@@ -508,8 +508,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       images = []
       # Publisher info
       [params.page.seo.publisher]
-        name = ""
-        logoUrl = ""
+        name = "natworkeffects"
+        logoUrl = "/images/nn-brain-orange-gradient.png" 
 
   # LoveIt NEW | 0.2.5 TypeIt config
   [params.typeit]
