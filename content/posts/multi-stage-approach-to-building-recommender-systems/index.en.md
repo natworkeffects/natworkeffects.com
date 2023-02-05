@@ -215,7 +215,7 @@ To promote new item discovery on your platform, and encourage diversity, compani
 
 ___
 ## Special Thanks / References
-A special mention and thanks to the authors and creators of the following resources, that helped me to write this post:
+> A special mention and thanks to the authors and creators of the following resources, that helped me to write this post:
 - 📚 [Google Developers Recommendation Systems Course](https://developers.google.com/machine-learning/recommendation)
 - 🎦 [Approximate Nearest Neighbors: Data Science Concepts](https://www.youtube.com/watch?v=DRbjpuqOsjk)
 - 🎦 [Spotify Music Recommendations at Scale with Cloud Bigtable](https://www.youtube.com/watch?v=807uHC0Ia10)
