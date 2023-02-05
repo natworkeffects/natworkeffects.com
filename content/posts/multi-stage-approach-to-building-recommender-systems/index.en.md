@@ -213,36 +213,10 @@ The process of Re-Ranking could be simple business rules to ensure mandatory fie
 
 To promote new item discovery on your platform, and encourage diversity, companies also utilize variants of multi-armed bandit algorithms when serving the ranked item list to end users, to strike a balance between exploration vs. exploitation of items, but that's a topic that warrants a dedicated blog post for another time.
 
+___
 ## Special Thanks / References
-Thanks to all of the informative articles and courses that helped me to write this article:
-
-Thanks to the authors of following resources included in the theme:
-
-* [normalize.css](https://github.com/necolas/normalize.css)
-* [Font Awesome](https://fontawesome.com/)
-* [Simple Icons](https://github.com/simple-icons/simple-icons)
-* [Animate.css](https://daneden.github.io/animate.css/)
-* [autocomplete](https://github.com/algolia/autocomplete)
-* [Lunr.js](https://lunrjs.com/)
-* [algoliasearch](https://github.com/algolia/algoliasearch-client-javascript)
-* [lazysizes](https://github.com/aFarkas/lazysizes)
-* [object-fit-images](https://github.com/fregante/object-fit-images)
-* [Twemoji](https://github.com/twitter/twemoji)
-* [emoji-data](https://github.com/iamcal/emoji-data)
-* [lightGallery](https://github.com/sachinchoolur/lightgallery)
-* [clipboard.js](https://github.com/zenorocha/clipboard.js)
-* [Sharer.js](https://github.com/ellisonleao/sharer.js)
-* [TypeIt](https://typeitjs.com/)
-* [$\KaTeX$](https://katex.org/)
-* [mermaid](https://github.com/mermaid-js/mermaid)
-* [ECharts](https://echarts.apache.org/)
-* [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
-* [APlayer](https://github.com/MoePlayer/APlayer)
-* [MetingJS](https://github.com/metowolf/MetingJS)
-* [Gitalk](https://github.com/gitalk/gitalk)
-* [Valine](https://valine.js.org/)
-* [cookieconsent](https://github.com/osano/cookieconsent)
-
-
-
+A special mention and thanks to the authors and creators of the following resources, that helped me to write this post:
+- 📚 [Google Developers Recommendation Systems Course](https://developers.google.com/machine-learning/recommendation)
+- 🎦 [Approximate Nearest Neighbors: Data Science Concepts](https://www.youtube.com/watch?v=DRbjpuqOsjk)
+- 🎦 [Spotify Music Recommendations at Scale with Cloud Bigtable](https://www.youtube.com/watch?v=807uHC0Ia10)
 
