@@ -1,4 +1,4 @@
-baseURL = "https://natworkeffects.github.io"
+baseURL = "https://natworkeffects.com"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -34,7 +34,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "Nathan Cheng"
   email = "nathancheng.io@gmail.com"
-  link = "https://natworkeffects.github.io"
+  link = "https://natworkeffects.com"
 
 # Menu config
 [menu]
@@ -102,7 +102,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/natworkeffects/natworkeffects.github.io.git"
+  gitRepo = "https://github.com/natworkeffects/natworkeffects.com.git"
   # LoveIt NEW | 0.1.1 which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = "" 
