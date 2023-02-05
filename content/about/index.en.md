@@ -47,7 +47,7 @@ rssFullText: false
 [![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
 {{< /style >}} -->
 
-> [:(fa fa-cubes fa-fw): natworkeffects](https://natworkeffects.com) is a blog that writes knowledge articles about engineering Machine Learning systems.
+> [:(fa fa-cubes fa-fw): natworkeffects](https://natworkeffects.com) is a blog that posts knowledge articles about engineering Machine Learning systems.
 
 ### Meet the Author
 ![natworkeffects-profile-picture](/images/nc-profile-monochrome.png) 
