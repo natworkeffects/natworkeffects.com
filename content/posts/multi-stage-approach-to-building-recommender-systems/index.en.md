@@ -1,9 +1,9 @@
 ---
 title: "Multi-Stage Approach to Building Recommender Systems"
-subtitle: "Discover state-of-the-art approaches to building RecSys"
-description: "Discover state-of-the-art approaches to building RecSys"
-date: 2023-01-01T10:23:41+08:00
-lastmod: 2023-01-15T15:58:26+08:00
+subtitle: "Discover state-of-the-art (SOTA) approaches to building RecSys"
+description: "Discover state-of-the-art (SOTA) approaches to building RecSys"
+date: 2023-02-10T10:23:41+08:00
+lastmod: 2023-02-10T15:58:26+08:00
 draft: false
 author: "Nathan Cheng"
 authorLink: "https://natworkeffects.com"
@@ -71,7 +71,7 @@ Users who are exploring your site would also be able to scan through your entire
 - For certain companies, structured data in a tabular format may not even be collected. Instead, they might have a repository of videos, images, free text, articles that could be mined for generating recommendations. 
 - Using unstructured data as the basis of that idea requires use of deep neural network approaches that encode unstructured data into structured numerical data to learn meaningful representations.
 - __structured__ - data in tabular format with well-defined schema.
-- __unstructured__ - `text`, `image`, `audio`, `video`
+- __unstructured__ - __*text*__, __*images*__, __*audio*__, __*video*__
 ---
 
 3. __Repeatable process for improving business metrics:__
@@ -114,7 +114,7 @@ Let's take a look at the stages a machine learning engineer goes through when bu
 ## 3 Recommender System Design
 ![Multi-stage Recommender System](multi-stage-recsys.png "Multi-stage Recommender System")
 
-The above diagran shows the de-facto standard for building recommender systems. State-of-the-art (SOTA) recommender systems separate the engineering of such a system into this 3-stage process.
+The above diagram shows the de-facto standard for building recommender systems. State-of-the-art (SOTA) recommender systems separate the engineering of such a system into this 3-stage process.
 
 {{< admonition note "Model Serving">}}
 
