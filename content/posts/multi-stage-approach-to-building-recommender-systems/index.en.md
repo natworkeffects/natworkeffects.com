@@ -86,33 +86,22 @@ __Below are some example use cases of recommender systems that are prevalent in 
 
 {{< admonition example "Example RecSys Use Cases in Industry">}}
 
-- eCommerce: [eBay - Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/)
-- Retail: [ - ]
-- Fashion: [ - ]
-- Streaming Media: [ - Tiktok]
-- Music: [Spotify - ]
-- Videos: [YouTube - ]
-- Electronics, Hardware: [Apple - ]
-- Social Networks: [Facebook, Linkedin, Instagram - ]
-- Food Delivery: [Instacart - ]
-- Arts, Museums, Entertainment: [ - ]
-- Travel: [AirBnB / Klook - ]
-- Leisure and Hospitality: [Resorts World Sentosa - ]
-- Online dating: [Tinder -]
-- Online gaming: [Steam - ]
-- Housing and Apartments: [Zillow - ]
-- Leasing and Rentel: [WeWork - ]
-- Cars: [Car marketplace - ]
-- Employee Engagement and Productivity: [Workday - ]
-- Internal IT tickets: [JIRA - ]
-- Government Health: [ - ]
-- Publishers: [New York Times - ]
-- Sports: [FIFA / NBA - ]
-- Education: [Schools - ]
-- Online Education: [Coursera - ]
-- Healthcare: [Novartis - ]
-- Financial Services / Trading: [ - ]
-- Insurance: [ - ]
+- Online Commerce: [eBay - Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations)
+- Fashion: [ASOS - Fashion Recommendations at ASOS](https://www.youtube.com/watch?v=kGuaEqEsxKM)
+- Music: [Spotify - Automatic Music Playlist Continuation](https://research.atspotify.com/publications/recsys-challenge-2018-automatic-music-playlist-continuation)
+- Videos: [YouTube - Deep Neural Networks for Recommendations](https://research.google/pubs/pub45530/)
+- Images: [Pinterest - Unifying Visual Embeddings for Visual Search](https://medium.com/pinterest-engineering/unifying-visual-embeddings-for-visual-search-at-pinterest-74ea7ea103f0)
+- Written Content: [New York Times - Building the Next Recommendation Engine](https://archive.nytimes.com/open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine)
+- Online Dating: [Tinder - Personlized Recommendations using TinVec](https://www.youtube.com/watch?v=j2rfLFYYdfM)
+- Online Gaming: [Steam - Recommender Systems for Online Video Game Platforms](https://www.researchgate.net/publication/333072035_Recommender_Systems_for_Online_Video_Game_Platforms_the_Case_of_STEAM)
+- Travel Accommodation: [Expedia - Recommendations using Hotel2Vec](https://medium.com/expedia-group-tech/expedia-group-recsys-2021-ff791f42ba07)
+- Healthcare Procurement: [Novartis AG - Powering Search and Recommendation with Amazon OpenSearch KNN and SageMaker](https://aws.amazon.com/blogs/industries/novartis-ag-uses-amazon-elasticsearch-k-nearest-neighbor-knn-and-amazon-sagemaker-to-power-search-and-recommendation)
+- Food Delivery: [Instacart - Personalizing Recommendations of a Learning User](https://www.instacart.com/company/how-its-made/personalizing-recommendations-for-a-learning-user)
+- Housing and Apartments: [Zillow - Home Embeddings for Similar Home Recommendations](https://www.zillow.com/tech/embedding-similar-home-recommendation/)
+- Leasing and Office Rental: [WeWork - Recommendation Systems](https://www.youtube.com/watch?v=-R1loUK_EdA)
+- Recruitment and Candidate Search: [LinkedIn - Quality Matches via Personalized AI for hirer and seeker preferences](https://engineering.linkedin.com/blog/2020/quality-matches-via-personalized-ai)
+
+__Online Education, Online Banking, Insurance were also the industries where I expected to find examples of successful case studies, however information was scarce.__
 
 {{< /admonition >}}
 
