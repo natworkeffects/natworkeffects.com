@@ -198,7 +198,7 @@ After ranking your items by assigning them probability scores, systems can also 
 
 When you optimize for a business metric, you are prone to [metric corruption](https://www.nngroup.com/articles/campbells-law/) - you encourage certain malicious behaviours from bad actors. The re-ranking stage serves to mitigate that, by considering other metrics that are complimentary to the primary one that was optimized for during the Scoring stage. 
 
-The process of Re-Ranking could be simple business rules to ensure mandatory fields for an item is filled in, or you could train a separate model that can learns characteristics of the bad actors or items with malicious intent. Serving these models would be similar to the approach described in the Scoring stage.
+The process of Re-Ranking could be simple business rules to ensure mandatory fields for an item is filled in, or you could train a separate model that learns characteristics of the bad actors or items with malicious intent. Serving these models would be similar to the approach described in the Scoring stage.
 
 To promote new item discovery on your platform, and encourage diversity, companies also utilize variants of multi-armed bandit algorithms when serving the ranked item list to end users, to strike a balance between exploration vs. exploitation of items, but that's a topic that warrants a dedicated blog post for another time.
 
