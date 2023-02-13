@@ -144,15 +144,11 @@ There are several points to consider here:
 
 2. Candidate generation models can train on unstructured data, and represent unstructured data attributes of the item or user using a multi-dimensional vector. This useful information, such as __*text*__, __*images*__, __*audio*__, __*video*__, would otherwise remain untapped.
 
-3. Unsupervised learning with unlabeled training data. In the real world, labeled data is expensive to obtain, and we do not always have the luxury of having explicit labels for our data. Candidate generation approaches do not require labeled data, and are able to extract the latent features of the input data using implicit feedback.
+3. Semantic visual understanding of each item or user in the embedding space. You can visualize high-dimensional vectors in a 2-D space using tools such as [TensorBoard Embedding Projector](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin). By doing so, you also gain the ability to observe, and apply clustering algorithms to discover clusters of similar objects.
 
-4. Semantic visual understanding of each item or user in the embedding space. You can visualize high-dimensional vectors in a 2-D space using tools such as [TensorBoard Embedding Projector](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin). By doing so, you also gain the ability to observe, and apply clustering algorithms to discover clusters of similar objects.
+4. The output of a candidate generation model aims to establish similarity between items or users. This idea is fundamental in most recommender system products. Examples such as __"Similar Items to..."__ or __"Users similar to you also liked..."__ spring to mind.
 
-5. The output of a candidate generation model aims to establish similarity between items or users. This idea is fundamental in most recommender system products. Examples such as __"Similar Items to..."__ or __"Users similar to you also liked..."__ spring to mind.
-
-6. Fast training process. When re-training a candidate generation model, you can initialize the model with learned embeddings from the previously trained model version. This reduces training time as you only have to learn embeddings for the new items or users. This is assuming user preferences and item attributes change slowly over time.
-
-7. Serve model results efficiently. Serving a candidate generation model is also efficient using an Approximate Nearest Neighbors (ANN) engine. For more information about the ANN algorithm, please refer to the video: [Approximate Nearest Neighbors: Data Science Concepts](https://www.youtube.com/watch?v=DRbjpuqOsjk). __Contrast this with the Scoring stage - where you have the added overhead of computing all the engineered features that went into training the Scoring model, before the API is able to return you the model results.__
+5. Serve model results efficiently. Serving a candidate generation model is also efficient using an Approximate Nearest Neighbors (ANN) engine. For more information about the ANN algorithm, please refer to the video: [Approximate Nearest Neighbors: Data Science Concepts](https://www.youtube.com/watch?v=DRbjpuqOsjk). __Contrast this with the Scoring stage - where you have the added overhead of computing all the engineered features that went into training the Scoring model, before the API is able to return you the model results.__
 
 {{< /admonition >}}
 
