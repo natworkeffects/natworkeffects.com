@@ -142,7 +142,7 @@ There are several points to consider here:
 
 1. Generating embeddings are a key feature engineering step. The vector values can be re-used downstream as input feature values to further increase the accuracy of the downstream scoring model.
 
-2. Candidate generation models can train on unstructured data, and represent unstructured data attributes of the item or user using a multi-dimensional vector. This useful information, such as `text`, `image`, `audio`, `video`, would otherwise remain untapped.
+2. Candidate generation models can train on unstructured data, and represent unstructured data attributes of the item or user using a multi-dimensional vector. This useful information, such as __*text*__, __*images*__, __*audio*__, __*video*__, would otherwise remain untapped.
 
 3. Unsupervised learning with unlabeled training data. In the real world, labeled data is expensive to obtain, and we do not always have the luxury of having explicit labels for our data. Candidate generation approaches do not require labeled data, and are able to extract the latent features of the input data using implicit feedback.
 
