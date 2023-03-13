@@ -73,14 +73,14 @@ Below is a visual explanation to support the above statistics, taken direct from
 I won't go into a detailed explanation of each stage in the lifecycle, but here's a summarized list of definitions. If you're interested in learning more, I would recommend reading Machine Learning Design Patterns page xx for a detailed answer.
 
 {{< admonition info "ML lifecycle summarized definitions">}}
-1. **`Data pre-processing`** - prepare data for ML training, data pipeline engineering
+1. **`Data pre-processing`** - prepare data for ML training; data pipeline engineering
 2. **`Feature engineering`** - transform input data into new features that are closely aligned with the ML model learning objective
-3. **`Model training`** - training and initial validation of ML model, iterate through algorithms, train / test splits, perform hyperparameter tuning
+3. **`Model training`** - training and initial validation of ML model; iterate through algorithms, train / test splits, perform hyperparameter tuning
 4. **`Model evaluation`** - performance assessed against predetermined evaluation metrics
-5. **`Model versioning`** - version control of model artifacts, model training parameters, model pipeline
+5. **`Model versioning`** - version control of model artifacts; model training parameters, model pipeline
 6. **`Model serving`** - serving model predictions via batch or real-time inference
-7. **`Model deployment`** -  automated build, test, deployment to production, model retraining
-8. **`Model monitoring`** - monitor model infrastructure, input data quality, and predictions
+7. **`Model deployment`** -  automated build, test, deployment to production, and model retraining
+8. **`Model monitoring`** - monitor infrastructure, input data quality, and model predictions
 {{< /admonition >}}
 
 {{< admonition warning "Don't forget about platform infrastructure and security!">}}
