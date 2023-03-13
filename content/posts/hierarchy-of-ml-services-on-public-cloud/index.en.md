@@ -188,7 +188,7 @@ The goal is to add ML features into the product by leveraging hyperscaler base m
 {{< admonition note "A word on capability vs. business use case">}}
 We're going to organize the following comparison table by the technology capabilities the AI service provides. This is closely interlinked with but should be differentiated from the ML business use case. 
 
-For example, Amazon Comprehend service gives you the _`capability`_ to do text classification. It is used to build models for _`business use cases`_ such as:
+For example, Amazon Comprehend service gives you the _`capability`_ to do text classification. That capability is used to build models for _`business use cases`_ such as:
 1. **Sentiment analysis of customer reviews.**
 2. **Content quality moderation.**
 3. **Multi-class item classification into custom-defined categories.**
@@ -268,6 +268,7 @@ I would encourage you to explore and find your own answers to these concepts tha
 - Model catalog
 - Human review for post-prediction ground truth labeling
 - Models that work on video data
+- Models that do generic regression and classification
 
 ___
 ## Special Thanks / References
