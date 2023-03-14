@@ -20,8 +20,8 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 images: []
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "hidden-ml-technical-debt.png"
+featuredImagePreview: "hidden-ml-technical-debt.png"
 
 code:
   copy: true
@@ -57,8 +57,7 @@ Before we jump into tooling comparison, let's understand why we should even use 
 Why not build your own custom infrastructure and ML model from scratch? To answer this question, let's take a quick look at the ML lifecycle.
 
 The below diagram depicts a typical ML lifecycle (the cycle is iterative):
-
-Data ingestion --> Data processing --> Feature engineering --> Model training --> Model evaluation --> Model versioning --> Model serving --> Model deployment --> Model monitoring
+![Machine Learning lifecycle](ml-lifecycle.png "Machine Learning lifecycle")
 
 As you can see, there are many parts to the entire lifecycle that must be considered. 
 
