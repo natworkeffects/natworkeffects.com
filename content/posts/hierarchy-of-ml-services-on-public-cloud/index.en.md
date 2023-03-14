@@ -68,13 +68,13 @@ This phenomenon is known as the hidden technical debt of ML systems in productio
 Below is a visual explanation to support the above statistics, [adapted from Google's paper](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning):
 ![Hidden Technical Debt in ML Systems](hidden-ml-technical-debt.png "Hidden Technical Debt in ML Systems")
 
-I won't go into a detailed explanation of each stage in the lifecycle, but here's a summarized list of definitions. If you're interested in learning more, I would recommend reading Machine Learning Design Patterns page xx for a detailed answer.
+I won't go into a detailed explanation of each stage in the lifecycle, but here's a summarized list of definitions. If you're interested in learning more, I would recommend reading [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) Chapter 9 on ML Lifecycle and AI Readiness for a detailed answer.
 
 {{< admonition info "ML lifecycle summarized definitions">}}
 1. **`Data pre-processing`** - prepare data for ML training; data pipeline engineering
 2. **`Feature engineering`** - transform input data into new features that are closely aligned with the ML model learning objective
 3. **`Model training`** - training and initial validation of ML model; iterate through algorithms, train / test splits, perform hyperparameter tuning
-4. **`Model evaluation`** - performance assessed against predetermined evaluation metrics
+4. **`Model evaluation`** - model performance assessed against predetermined evaluation metrics
 5. **`Model versioning`** - version control of model artifacts; model training parameters, model pipeline
 6. **`Model serving`** - serving model predictions via batch or real-time inference
 7. **`Model deployment`** -  automated build, test, deployment to production, and model retraining
