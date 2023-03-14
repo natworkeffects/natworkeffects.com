@@ -43,7 +43,7 @@ rssFullText: false
 
 ## 1 ML Services on the Public Cloud
 
-Not all ML services are built the same. As a consultant working in the public cloud, I can tell you that you are spoilt for options for Artificial Intelligence (AI) / Machine Learning (ML) tooling on the 3 big public clouds, Azure, AWS, and GCP.
+Not all ML services are built the same. As a consultant working in the public cloud, I can tell you that you are spoilt for options for Artificial Intelligence (AI) / Machine Learning (ML) tooling on the 3 big public clouds - Azure, AWS, and GCP.
 
 It can be overwhelming to process and synthesize the wave of information; especially when these services are constantly coming out with new features.
 
