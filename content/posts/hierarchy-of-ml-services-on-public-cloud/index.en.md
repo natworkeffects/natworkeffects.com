@@ -64,7 +64,7 @@ As you can see, there are many parts to the entire lifecycle that must be consid
 
 A famous whitepaper by Google estimated that only 0.1% of the effort that goes into building maintainable ML models in production is writing the model training code. 
 
-This phenomenon is what is known as the hidden technical debt in ML systems in production, and also what has been termed by industry as Machine Learning Operations (MLOps), which has become an umbrella term to refer to the mentioned technical debt. 
+This phenomenon is known as the hidden technical debt of ML systems in production, and also what has been termed by industry as Machine Learning Operations (MLOps), which has become an umbrella term to refer to the mentioned technical debt. 
 
 Below is a visual explanation to support the above statistics, taken direct from Google's whitepaper:
 
@@ -84,9 +84,9 @@ I won't go into a detailed explanation of each stage in the lifecycle, but here'
 {{< /admonition >}}
 
 {{< admonition warning "Don't forget about platform infrastructure and security!">}}
-The ML lifecycle does not consider the supporting platform infrastructure... which also has to be secure from a encryption, networking, and identity and access management (IAM) perspective.
+The ML lifecycle does not consider the supporting platform infrastructure, which has to be secure from a encryption, networking, and identity and access management (IAM) perspective.
 
-Cloud services provide managed compute infrastructure, development environments, centralized IAM, encryption features, and network protection services that can achieve security compliance with internal IT policies - hence you really should not be building these ML services yourself, and leverage the power of the cloud add ML capabilities into your product roadmap.
+Cloud services provide managed compute infrastructure, development environments, centralized IAM, encryption features, and network protection services that can achieve security compliance with internal IT policies - hence you really should not be building these ML services yourself, and leverage the power of the cloud to add ML capabilities into your product roadmap.
 {{< /admonition >}}
 
 This section illustrates that writing the model training code is a relatively tiny part of the entire ML lifecycle, and actual data prep, evaluation, deployment, and monitoring of ML models in production is difficult. 
@@ -177,7 +177,7 @@ Every new line of code you willingly bring into the world is code that has to be
 Persona-wise, these are for the teams who **DO NOT HAVE EITHER:**
 1. Internal data scientist resources.
 2. Own training data to train a custom ML model.
-3. Investment of resource effort and time to engineer custom ML model end-to-end.
+3. Investment of resources, effort, and time to engineer a custom ML model end-to-end.
 
 #### How do I use it?
 Requirement-wise, the ML business use case would be met by cloud provider AI service capabilities. 
