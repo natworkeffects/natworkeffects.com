@@ -164,7 +164,7 @@ Built-in libraries and cloud-native SDKs facilitates data scientists writing cus
 | Model monitoring | Model understanding and interpretability | Azure ML Responsible AI | SageMaker Clarify | Vertex AI Explainable AI |
 
 ### 3.2 AI Services 🧰  {#ai-services}
-Next, we will discuss AI services. They enable ML development using a low-code / no-code approach, and eliminate the overhead of managing MLOps. 
+Next, we will discuss AI services. They enable ML development using a low-code / no-code approach, and mitigate the overhead of managing MLOps. 
 
 The over-arching argument for these services is neatly put below by Jeff Atwood:
 {{< admonition quote "From Jeff Atwood, Author of Effective Programming: More Than Writing Code">}}
