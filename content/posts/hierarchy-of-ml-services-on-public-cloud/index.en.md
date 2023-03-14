@@ -62,13 +62,12 @@ Data ingestion --> Data processing --> Feature engineering --> Model training --
 
 As you can see, there are many parts to the entire lifecycle that must be considered. 
 
-A famous whitepaper by Google estimated that only 0.1% of the effort that goes into building maintainable ML models in production is writing the model training code. 
+A [famous paper published by Google](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) showed that a small fraction of the effort that goes into building maintainable ML models in production is writing the model training code. 
 
 This phenomenon is known as the hidden technical debt of ML systems in production, and also what has been termed by industry as Machine Learning Operations (MLOps), which has become an umbrella term to refer to the mentioned technical debt. 
 
-Below is a visual explanation to support the above statistics, taken direct from Google's whitepaper:
-
-{Insert image}
+Below is a visual explanation to support the above statistics, [adapted from Google's paper](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning):
+![Hidden Technical Debt in ML Systems](hidden-ml-technical-debt.png "Hidden Technical Debt in ML Systems")
 
 I won't go into a detailed explanation of each stage in the lifecycle, but here's a summarized list of definitions. If you're interested in learning more, I would recommend reading Machine Learning Design Patterns page xx for a detailed answer.
 
