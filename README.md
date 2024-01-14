@@ -1,1 +1,1 @@
-[natworkeffects](https://natworkeffects.com) is a blog that writes knowledge articles about engineering Machine Learning systems.
+[natworkeffects](https://natworkeffects.com) is a blog that writes knowledge articles about Data and AI tech.
