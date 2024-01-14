@@ -47,23 +47,21 @@ rssFullText: false
 [![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
 {{< /style >}} -->
 
-> [:(fa fa-cubes fa-fw): natworkeffects](https://natworkeffects.com) is a blog that writes knowledge articles about engineering Machine Learning systems.
+> [:(fa fa-cubes fa-fw): natworkeffects](https://natworkeffects.com) is a blog that writes knowledge articles about Data and AI tech.
 
 ### Meet the Author
 ![natworkeffects-profile-picture](/images/nc-profile-monochrome.png) 
 
-👋 Hi, I'm Nathan Cheng. 📊 📈 I design, engineer, and operate modern data analytics and machine learning platforms on the cloud.
+👋 Hi, I'm Nathan Cheng. 📊 📈 I design, engineer, and operate modern Data and AI platforms on the cloud.
 
-Currently, I'm a consultant at [Rackspace Technology](https://www.rackspace.com) helping customers become more data-driven, turning the ideas that provide business value from conception to production.
+Currently, I'm a consultant at [Rackspace Technology](https://www.rackspace.com) creating change by helping customers achieve their Data and AI initiatives, turning the ideas that provide business value from conception to production.
 
 ___
 Outside of work, I also...
 
 - 🔭 Research and explore the latest data engineering and machine learning design patterns.
-- 📝 Write about data analytics / ML systems to share knowledge with the community of data nerds.
-- 🎦 I'm currently watching: [Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV).
-- 📚 I'm currently reading: [Personalizing Explainable Recommendations with Bandits](https://dl.acm.org/doi/10.1145/3240323.3240354).
-- 👯 Looking to collaborate on projects to implement production semantic / visual search and recommender systems using modern techniques.
+- 📝 Write about Data and AI systems to share knowledge with the fellow community of data nerds.
+- 🎦 Create video explainers about Data and AI tech on my [YouTube Channel](https://www.youtube.com/channel/UC20uWyMd7SaHw-VLl1UgFbQ)
 
 ___
 As for work experience, I have played different roles on a data team ranging from data analyst, data engineer, platform infrastructure, and DevOps engineer. You can connect with me on [LinkedIn](https://www.linkedin.com/in/nathancheng-data).
